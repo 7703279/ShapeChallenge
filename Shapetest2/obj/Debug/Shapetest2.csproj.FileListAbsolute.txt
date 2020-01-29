@@ -1,0 +1,6 @@
+C:\Users\kim22\source\repos\Challenge2_Shapes\Shapetest2\obj\Debug\Shapetest2.csprojAssemblyReference.cache
+C:\Users\kim22\source\repos\Challenge2_Shapes\Shapetest2\obj\Debug\Shapetest2.exe
+C:\Users\kim22\source\repos\Challenge2_Shapes\Shapetest2\obj\Debug\Shapetest2.pdb
+C:\Users\kim22\source\repos\Challenge2_Shapes\Shapetest2\bin\Debug\Shapetest2.exe.config
+C:\Users\kim22\source\repos\Challenge2_Shapes\Shapetest2\bin\Debug\Shapetest2.exe
+C:\Users\kim22\source\repos\Challenge2_Shapes\Shapetest2\bin\Debug\Shapetest2.pdb
